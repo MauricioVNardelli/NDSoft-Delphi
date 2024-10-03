@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/15 11:12:46.000.482,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Fiscal.dproj=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/15 11:48:38.000.265,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 11:48:58.000.974,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 11:49:03.000.894,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 11:49:03.000.894,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.dfm</Transaction>
+    <Transaction>2023/04/15 11:49:23.000.252,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.pas=</Transaction>
+    <Transaction>2023/04/15 11:51:53.000.497,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 11:53:02.000.820,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.dfm</Transaction>
+    <Transaction>2023/04/15 11:53:02.000.820,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 12:05:02.000.128,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 12:05:13.000.930,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.pas=</Transaction>
+    <Transaction>2023/04/15 12:05:28.000.789,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.pas</Transaction>
+    <Transaction>2023/04/15 12:05:51.000.156,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 13:04:53.000.660,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.pas=</Transaction>
+    <Transaction>2023/04/15 13:05:03.000.119,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas=</Transaction>
+    <Transaction>2023/04/16 13:09:20.000.211,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit2.pas</Transaction>
+    <Transaction>2023/04/16 13:09:42.000.400,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormFI_PESSOA.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit2.pas</Transaction>
+    <Transaction>2023/04/24 20:51:02.000.961,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 20:51:10.000.283,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uScript.pas</Transaction>
+    <Transaction>2023/04/28 07:34:38.000.140,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 07:34:45.000.104,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uGerenciamentoFI_PESSOA.pas</Transaction>
+    <Transaction>2023/04/28 13:02:35.000.004,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 13:02:45.000.210,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormHO_QUARTO.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 13:03:33.000.897,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 13:03:47.000.533,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uGerenciamentoHO_QUARTO.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 13:06:27.000.610,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uFormHO_QUARTO.pas=</Transaction>
+    <Transaction>2023/04/28 13:06:27.000.742,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Fiscal\uGerenciamentoHO_QUARTO.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

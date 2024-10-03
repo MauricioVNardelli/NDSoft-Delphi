@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/19 07:19:07.000.717,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\bpl\Formulario\uFormPrincipal.pas</Transaction>
+    <Transaction>2023/04/19 07:22:00.000.966,=dbrtl.dcp</Transaction>
+    <Transaction>2023/04/19 07:22:00.000.953,=vclwinx.dcp</Transaction>
+    <Transaction>2023/04/19 07:22:00.000.977,=vcldb.dcp</Transaction>
+    <Transaction>2023/04/19 07:22:00.000.990,=adortl.dcp</Transaction>
+    <Transaction>2023/04/19 07:22:00.000.943,=vcl.dcp</Transaction>
+    <Transaction>2023/04/19 07:22:01.000.000,=Componente.dcp</Transaction>
+    <Transaction>2023/04/19 07:49:15.000.019,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\bpl\Formulario\uFormInicio.pas</Transaction>
+    <Transaction>2023/04/19 07:49:56.000.225,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\bpl\Formulario\uFormGerenciamento.pas</Transaction>
+    <Transaction>2023/04/19 07:50:54.000.016,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\bpl\Formulario\Formulario.dproj=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\bpl\Formulario\Tecnologia.dproj</Transaction>
+    <Transaction>2023/04/19 07:52:15.000.383,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\bpl\Tecnologia\uScript.pas</Transaction>
+    <Transaction>2023/04/22 15:03:07.000.494,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormModelo.pas</Transaction>
+    <Transaction>2023/04/22 22:05:45.000.623,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uScript.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uScriptBase.pas</Transaction>
+    <Transaction>2023/04/22 22:06:33.000.173,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uScriptBase.pas=</Transaction>
+    <Transaction>2023/04/22 22:07:35.000.723,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uSistema.pas</Transaction>
+    <Transaction>2023/04/22 22:07:35.000.693,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uScriptBase.pas</Transaction>
+    <Transaction>2023/04/22 22:07:47.000.238,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uSistema.pas=</Transaction>
+    <Transaction>2023/04/22 22:12:20.000.594,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uSistema.pas</Transaction>
+    <Transaction>2023/04/22 22:12:26.000.537,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uSistema.pas=</Transaction>
+    <Transaction>2023/04/22 22:12:33.000.044,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uSistema.pas</Transaction>
+    <Transaction>2023/04/22 22:14:45.000.824,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uSistema.pas=</Transaction>
+    <Transaction>2023/04/22 22:15:27.000.574,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uScriptBase.pas=</Transaction>
+    <Transaction>2023/04/27 07:27:27.000.261,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 07:27:37.000.834,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoPrincipal.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 07:28:07.000.976,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoPrincipal.pas</Transaction>
+    <Transaction>2023/04/27 07:28:41.000.656,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormExemplo.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormModelo.pas</Transaction>
+    <Transaction>2023/04/27 07:28:41.000.656,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormExemplo.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormModelo.dfm</Transaction>
+    <Transaction>2023/04/27 07:28:58.000.455,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormModelo.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormPrincipal.pas</Transaction>
+    <Transaction>2023/04/27 07:38:51.000.760,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.pas=</Transaction>
+    <Transaction>2023/04/27 07:39:03.000.418,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciamento.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.dfm</Transaction>
+    <Transaction>2023/04/27 07:39:03.000.464,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciamento.pas</Transaction>
+    <Transaction>2023/04/27 07:39:03.000.418,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciamento.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.pas</Transaction>
+    <Transaction>2023/04/27 07:39:03.000.464,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciamento.dfm</Transaction>
+    <Transaction>2023/04/27 07:39:37.000.238,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciamento.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.dfm</Transaction>
+    <Transaction>2023/04/27 07:39:37.000.238,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciamento.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.pas</Transaction>
+    <Transaction>2023/04/27 07:55:21.000.839,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoExemplo.pas</Transaction>
+    <Transaction>2023/04/27 07:55:21.000.839,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoExemplo.dfm</Transaction>
+    <Transaction>2023/04/27 07:56:22.000.449,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 07:56:29.000.649,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uGerenciamentoModelo.pas</Transaction>
+    <Transaction>2023/04/28 07:47:51.000.524,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 07:48:00.000.670,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciarCampo.pas</Transaction>
+    <Transaction>2023/04/28 07:48:00.000.670,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uFormGerenciarCampo.dfm</Transaction>
+    <Transaction>2023/05/01 08:57:14.000.783,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2023/05/01 08:57:21.000.757,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\uConstantes.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Pacote\Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2023/05/01 16:25:07.000.039,=EssentialsDR.dcp</Transaction>
+    <Transaction>2023/05/08 18:46:02.000.281,=DbxCommonDriver.dcp</Transaction>
+    <Transaction>2023/05/08 18:46:02.000.326,=dbexpress.dcp</Transaction>
+    <Transaction>2023/05/08 18:46:02.000.351,=DBXMySQLDriver.dcp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="adortl.dcp"/>
+    <File Path="Componente.dcp"/>
+    <File Path="dbexpress.dcp"/>
+    <File Path="dbrtl.dcp"/>
+    <File Path="DbxCommonDriver.dcp"/>
+    <File Path="DBXMySQLDriver.dcp"/>
+    <File Path="rtl.dcp"/>
+    <File Path="vcl.dcp"/>
+    <File Path="vcldb.dcp"/>
+    <File Path="vclwinx.dcp"/>
+    <File Path="uConstantes.pas"/>
+    <File Path="uFormExemplo.pas"/>
+    <File Path="uFormExemplo.dfm"/>
+    <File Path="uFormGerenciarCampo.pas"/>
+    <File Path="uFormGerenciarCampo.dfm"/>
+    <File Path="uFormInicio.pas"/>
+    <File Path="uFormInicio.dfm"/>
+    <File Path="uFormModelo.pas"/>
+    <File Path="uGerenciamentoExemplo.pas"/>
+    <File Path="uGerenciamentoExemplo.dfm"/>
+    <File Path="uGerenciamentoModelo.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

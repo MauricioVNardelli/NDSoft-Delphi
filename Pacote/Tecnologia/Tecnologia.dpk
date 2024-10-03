@@ -1,0 +1,52 @@
+package Tecnologia;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS ON}
+{$RANGECHECKS ON}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  vclwinx,
+  dbrtl,
+  vcldb,
+  adortl,
+  Componente,
+  DbxCommonDriver,
+  dbexpress,
+  DBXMySQLDriver;
+
+contains
+  uFormModelo in 'uFormModelo.pas',
+  uFormInicio in 'uFormInicio.pas' {FormInicio},
+  uGerenciamentoExemplo in 'uGerenciamentoExemplo.pas' {FormGerenciamento},
+  uFormExemplo in 'uFormExemplo.pas' {FormModelo},
+  uGerenciamentoModelo in 'uGerenciamentoModelo.pas',
+  uFormGerenciarCampo in 'uFormGerenciarCampo.pas' {FormGerenciarCampo},
+  uConstantes in 'uConstantes.pas';
+
+end.
+

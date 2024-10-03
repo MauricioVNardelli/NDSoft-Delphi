@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/22 21:31:33.000.288,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Hotel.dproj</Transaction>
+    <Transaction>2023/04/22 21:31:43.000.804,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\uFormHO_QUARTO.pas</Transaction>
+    <Transaction>2023/04/22 21:43:00.000.226,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 21:43:07.000.051,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\script.pas</Transaction>
+    <Transaction>2023/04/22 21:56:03.000.975,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\script.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\uScript.pas</Transaction>
+    <Transaction>2023/04/22 23:36:24.000.390,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 23:36:31.000.337,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\uFormHO_ORDEM.pas</Transaction>
+    <Transaction>2023/04/27 07:26:58.000.360,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 07:27:11.000.222,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\uGerenciamentoHO_ORDEM.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 13:09:05.000.785,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas</Transaction>
+    <Transaction>2023/04/28 13:09:17.000.593,C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\uGerenciamentoHO_QUARTO.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\NDSoft\Modulo\Hotel\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uFormHO_QUARTO.pas"/>
+    <File Path="uScript.pas"/>
+    <File Path="uFormHO_ORDEM.pas"/>
+    <File Path="uGerenciamentoHO_ORDEM.pas"/>
+    <File Path="uGerenciamentoHO_QUARTO.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,96 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{3A0209E0-EF6E-4F83-B28A-670BF01319EE}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Pacote\Componente\Componente.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Pacote\Tecnologia\Tecnologia.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="NDSoft.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Modulo\Hotel\Hotel.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Modulo\Fiscal\Fiscal.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Modulo\Metadados\Metadados.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Componente">
+        <MSBuild Projects="Pacote\Componente\Componente.dproj"/>
+    </Target>
+    <Target Name="Componente:Clean">
+        <MSBuild Projects="Pacote\Componente\Componente.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Componente:Make">
+        <MSBuild Projects="Pacote\Componente\Componente.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Tecnologia">
+        <MSBuild Projects="Pacote\Tecnologia\Tecnologia.dproj"/>
+    </Target>
+    <Target Name="Tecnologia:Clean">
+        <MSBuild Projects="Pacote\Tecnologia\Tecnologia.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Tecnologia:Make">
+        <MSBuild Projects="Pacote\Tecnologia\Tecnologia.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="NDSoft">
+        <MSBuild Projects="NDSoft.dproj"/>
+    </Target>
+    <Target Name="NDSoft:Clean">
+        <MSBuild Projects="NDSoft.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="NDSoft:Make">
+        <MSBuild Projects="NDSoft.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Hotel">
+        <MSBuild Projects="Modulo\Hotel\Hotel.dproj"/>
+    </Target>
+    <Target Name="Hotel:Clean">
+        <MSBuild Projects="Modulo\Hotel\Hotel.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Hotel:Make">
+        <MSBuild Projects="Modulo\Hotel\Hotel.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Fiscal">
+        <MSBuild Projects="Modulo\Fiscal\Fiscal.dproj"/>
+    </Target>
+    <Target Name="Fiscal:Clean">
+        <MSBuild Projects="Modulo\Fiscal\Fiscal.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Fiscal:Make">
+        <MSBuild Projects="Modulo\Fiscal\Fiscal.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Metadados">
+        <MSBuild Projects="Modulo\Metadados\Metadados.dproj"/>
+    </Target>
+    <Target Name="Metadados:Clean">
+        <MSBuild Projects="Modulo\Metadados\Metadados.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Metadados:Make">
+        <MSBuild Projects="Modulo\Metadados\Metadados.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Componente;Tecnologia;NDSoft;Hotel;Fiscal;Metadados"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Componente:Clean;Tecnologia:Clean;NDSoft:Clean;Hotel:Clean;Fiscal:Clean;Metadados:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Componente:Make;Tecnologia:Make;NDSoft:Make;Hotel:Make;Fiscal:Make;Metadados:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

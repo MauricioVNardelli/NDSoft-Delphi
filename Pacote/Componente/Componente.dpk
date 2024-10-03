@@ -1,0 +1,55 @@
+package Componente;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS ON}
+{$RANGECHECKS ON}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  vcldb,
+  dbrtl,
+  vclwinx,
+  vclimg,
+  bindengine,
+  adortl,
+  VclSmp;
+
+contains
+  uMyComboBox in 'uMyComboBox.pas',
+  uMyDBEdit in 'uMyDBEdit.pas',
+  uMyDBMemo in 'uMyDBMemo.pas',
+  uMyMainMenu in 'uMyMainMenu.pas',
+  uMyQuery in 'uMyQuery.pas',
+  uSistema in 'uSistema.pas',
+  uScriptBase in 'uScriptBase.pas',
+  uMyMaskEdit in 'uMyMaskEdit.pas',
+  uMyComboBoxConsulta in 'uMyComboBoxConsulta.pas',
+  uMyEditFiltro in 'uMyEditFiltro.pas';
+
+end.
+
+
